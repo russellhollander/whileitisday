@@ -1,5 +1,5 @@
-# Go Ye!  Matt. 28, 19
-## The Divine Commission. {-}
+# Go Ye!  Matt. 28, 19 
+## The Divine Commission. {-} 
 
 It is God's perogative to have people come to Him, and His invitation is extended to all men in a serious, efficacious call.
 
@@ -41,9 +41,9 @@ And there is more to be considered.  The Bridegroom, Christ, is sending His frie
 
 "Go YE!" says Christ.  The commission is not confined to the apostles.  They, indeed, are the teachers of the whole world until the end of time.  Through their word others are to believe on Jesus Christ, the Savior of the world.  John 17, 20.
 
-"Go YE!" is not addressed to trained pastors and missionaries only, although to them is committed the task of public preaching.  It was a little servant girl, a slave whose name is not even mentioned in the Bible, who called the attention of Naaman's wife to the prophet of Jehovah in Israel.  2 Kings 5, 3.  It was the untrained fisherman, Andrew, who told his brother Simon about the Messiah, John 1, 41, and whose example was followed by Philip in speaking to Nathanel.  John 1, 45.
+"Go YE!" is not addressed to trained pastors and missionaries only, although to them is committed the task of public preaching.  It was a little servant girl, a slave whose name is not even mentioned in the Bible, who called the attention of Naaman's wife to the prophet of Jehovah in Israel.  2 Kings 5, 3.  It was the untrained fisherman, Andrew, who told his brother Simon about the Messiah, John 1, 41, and whose example was followed by Philip in speaking to Nathanael.  John 1, 45.
 
-"Go ye INTO ALL THE WORLD!" is the Savior's commission.  The world is big and wide, and there are still more than twice as many without the knowledge of Christ as there are, even nominally, within the pale of the Church.  INto many of the heathen lands the messengers of the Gospel have gone.  Into some of the heathen lands some of our own messengers are gone -- alas! into all too few.  There never was a truer answer given than that turned in my a young Christian, the question being:  How many missionaries have we in India and China?  He said, with wonderful frankness:  "NOT ENOUGH!"
+"Go ye INTO ALL THE WORLD!" is the Savior's commission.  The world is big and wide, and there are still more than twice as many without the knowledge of Christ as there are, even nominally, within the pale of the Church.  Into many of the heathen lands the messengers of the Gospel have gone.  Into some of the heathen lands some of our own messengers are gone -- alas! into all too few.  There never was a truer answer given than that turned in by a young Christian, the question being:  How many missionaries have we in India and China?  He said, with wonderful frankness:  "NOT ENOUGH!"
 
 Yes, NOT ENOUGH!  We have not reached nearly all lands of the world.  We have made but a feeble, an all too feeble, beginning.
 
@@ -67,7 +67,7 @@ Somehow we do not seem to realize the misery of the untold millions that are "wi
 | 	But what would you do, and what would I do, 
 | 	WITH AFRICA ACROSS THE STREET?
 
-| 	* * *
+\begin{center} * * * \end{center}
 
 | 	Oh, may the love of Christ constrain us to see our mission duty through
 | 	That we be filled with burning fervor, that less we talk and more we do

@@ -7,29 +7,29 @@ documentclass:  book
 ---
 
 # While It Is Day.  John 9, 4 {.unlisted .unnumbered}
-```
-Let us work while it is day,
-Let us labor while we may!
-Soon will come the night of eath
-When we yield our final breath.
-Let us work for Chirst, the Lord,
-Bear aloft His mighty Word!
 
-Let us work without restraint,
-Never weary, lax or faint;
-Firm in battling selfishness,
-Loyal in true faithfulness,
-Place our strength at His command,
-Do His work throughout the land!
-
-Let us work while yet we may!
-Soon will come that glorious day
-When our labor here si done
-When the precious prize is won,
-When we rest and take our ease
-In the homes of endless peace!
-```
-(_Knowing and Doing_, p.82.)
+|	Let us work while it is day,
+|	Let us labor while we may!
+|	Soon will come the night of eath
+|	When we yield our final breath.
+|	Let us work for Chirst, the Lord,
+|	Bear aloft His mighty Word!
+|	
+|	Let us work without restraint,
+|	Never weary, lax or faint;
+|	Firm in battling selfishness,
+|	Loyal in true faithfulness,
+|	Place our strength at His command,
+|	Do His work throughout the land!
+|	
+|	Let us work while yet we may!
+|	Soon will come that glorious day
+|	When our labor here si done
+|	When the precious prize is won,
+|	When we rest and take our ease
+|	In the homes of endless peace!
+|	
+|	(_Knowing and Doing_, p.82.)
 
 
 # Foreword {.unnumbered}
