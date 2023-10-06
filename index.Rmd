@@ -33,7 +33,7 @@ documentclass:  book
 
 
 # Publisher's Preface {.unnumbered}
-Hello, I'm the publisher.
+It's me, hi, I'm the publisher, it's me.
 
 # Foreword {.unnumbered}
 In these days of spiritual and moral decay the question is often asked, "What's wrong with the church?"  And this question, while often presented by those who have never given the Church a fair trial, is, in a general way, warranted; for there is no institution in the entire world that can do so much good and has such high and holy responsibilities as the Church.  Where else shall the world turn, which is so torn by doubt and fear?  Where else, if not to the Church with its saving Gospel, the only message of hope?  Yes, the world is sick, and the Church has the only remedy that can cure its ills.
