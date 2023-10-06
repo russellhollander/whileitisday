@@ -1,2 +1,7 @@
-bookdown::pdf_book:
-  keep_tex:  true
+title: "While It Is Day!"
+author: "Paul Kretzmann"
+output:
+  bookdown::pdf_book:
+    keep_tex:  true
+    mainfont: Gentium
+
