@@ -5,16 +5,19 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -65,7 +68,7 @@
 \fi
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
   pdftitle={While It Is Day!},
   pdfauthor={Paul E. Kretzmann},
@@ -116,11 +119,21 @@
 \strut \\
 \hspace*{0.333em}\hspace*{0.333em}(\emph{Knowing and Doing}, p.82.)
 
-\hypertarget{publishers-preface}{%
-\chapter*{Publisher's Preface}\label{publishers-preface}}
-\addcontentsline{toc}{chapter}{Publisher's Preface}
+\hypertarget{publishers-note}{%
+\chapter*{Publisher's Note}\label{publishers-note}}
+\addcontentsline{toc}{chapter}{Publisher's Note}
 
-It's me, hi, I'm the publisher, it's me.
+I was familiar with Paul Kretzmann's \emph{Popular Commentary} already when I first heard about this soul-winning manual on an episode of the \emph{A Word Fitly Spoken} podcast with Rev.~Willie Grylls and Rev.~Zelwyn Heide. As a convert to Lutheranism I wondered what a Lutheran soul-winning manual might be like, and set off to find a copy. In the end I could only find a single copy available from any source, in this case a seller on Amazon, whose copy had at some point been in the Emmaus Bible College Library.
+
+I enjoyed the book and wanted to ensure that others who wanted to read it would have an easier time getting a copy for themselves, so I decided to republish the book. This also gave me a practical application for some technical skills I had been developing. I transcribed the text using the Vim text edior, formatted everything with R Markdown and some LaTeX, and compiled everything with the Bookdown R package, all on computers running Arch and Fedora Linux.I spent 8 months working on this project here and there in my spare time.
+
+Some of the information in the book, like population figures and country names, is outdated due to the 1926 original publication date. Many of the suggested methods and procedures could (and likely would) be enhanced by technologies developed in the subsequent years for any soul-winners seeking to implement Kretzmann's suggestions.
+
+I hope you, the reader, find this work both enjoyable and inspirational, and try your hand at ``Salesmanship for the Lord.''
+
+Russell Hollander
+Trimble, MO
+2023
 
 \hypertarget{foreword}{%
 \chapter*{Foreword}\label{foreword}}
