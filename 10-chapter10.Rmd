@@ -109,6 +109,12 @@ and\\
 Regular Officers of the Endeavor\\
 \end{center}
 
+\begin{center}
+\begin{tabular}{c c c c}
+\multirow{4}{Statistician or Committee on Statistics} & \multirow{2} Tracing Committee & \multirow{2}Mailing Committee & \multirow{2}Typing Committee
+\end{tabular}
+\end{center}
+
 \[
  \overbrace{
   \textit{Canvassers in Teams}
