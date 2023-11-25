@@ -111,7 +111,10 @@ Regular Officers of the Endeavor\\
 
 \begin{center}
 \begin{tabular}{c c c c}
-\multirow{4}{Statistician or Committee on Statistics} & \multirow{2} Tracing Committee & \multirow{2}Mailing Committee & \multirow{2}Typing Committee
+Statistician & Tracing & Mailing & Typing\\
+or & Committee & Committee & Committee\\
+Committee on\\
+Statistics
 \end{tabular}
 \end{center}
 
