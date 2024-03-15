@@ -3,5 +3,5 @@ author: "Paul Kretzmann"
 output:
   bookdown::pdf_book:
     keep_tex:  true
-    mainfont: Gentium
-
+    extra_dependencies:
+      gentium:  null

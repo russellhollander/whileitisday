@@ -97,8 +97,6 @@ The canvass itself may, in preparatory fashion, be conducted _by mail_, this wor
 
 The organization for the canvass will, at this time, have about the following form: --
 
-\newpage
-
 \begin{center}
 \textsc{Congregation and Pastors}
 \end{center}
