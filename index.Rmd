@@ -6,6 +6,8 @@ date:  '1926'
 documentclass:  book
 ---
 
+\setlength\parindent{1em}
+
 # While It Is Day.  John 9, 4 {.unlisted .unnumbered}
 
 |	Let us work while it is day,
